@@ -4,9 +4,8 @@ import speech_recognition as sr
 from playsound import playsound
 
 # API KEYS
-DEEPSEEK_API_KEY = "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"
-
-ELEVENLABS_API_KEY = "sk_edf8064649152de0be818a96ff789405560a072fd6ac0242"
+DEEPSEEK_API_KEY = "api_key"
+ELEVENLABS_API_KEY = "api_key"
 
 # Conversation Memory
 chat_history = [

@@ -55,9 +55,9 @@ Overall, this project helped me appreciate how much work goes into getting AI to
 
 I’m **JeevaNantham**, a Python developer exploring AI, web, and automation technologies.
 Kanmani AI was one of those projects that taught me how deep the connection between code, compiler, and system really is — and how every small configuration matters when working with AI.
+📧[jeeva122603@gmail.com]  
+💼 [https://www.linkedin.com/in/jeevanantham-d-04494935a/
 
 > “Sometimes, the best way to learn AI is not by building a model — but by understanding what makes one actually run.”
 
-📧[jeeva122603@gmail.com]  
-💼 [https://www.linkedin.com/in/jeevanantham-d-04494935a/]
 ---

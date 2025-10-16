@@ -58,6 +58,6 @@ Kanmani AI was one of those projects that taught me how deep the connection betw
 
 > “Sometimes, the best way to learn AI is not by building a model — but by understanding what makes one actually run.”
 
+📧[jeeva122603@gmail.com]  
+💼 [https://www.linkedin.com/in/jeevanantham-d-04494935a/]
 ---
-
-Would you like me to make a **shorter version (for GitHub front page)** and a **detailed version (for recruiters or README file)**? I can make both so you can upload the short one to your repo and keep the detailed one for your portfolio or LinkedIn.
